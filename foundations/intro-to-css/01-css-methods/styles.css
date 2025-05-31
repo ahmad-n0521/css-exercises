@@ -2,6 +2,7 @@ div {
     background-color: red;
     color: white;
     font-size: 32px;
-    font-style: bold;
+    font-weight: bold;
     text-align: center;
+    /*font-style does not have bold value. Use font-weight instead */
 }
