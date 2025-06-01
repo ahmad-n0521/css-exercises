@@ -1,0 +1,13 @@
+.agni.rudra {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.agni {
+    background-color: black;
+    color: hsl(180, 100%, 100%);
+}
+
+.rudra {
+    background-color: rgb(244, 252, 20);
+}
